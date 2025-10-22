@@ -1,16 +1,6 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.jpg">
-</p>
-
-
-
-
--------
-
-
-<p align="center">
 <img 
-    src="./assets/cover.jpg"
+    src="./assets/capa.jpg"
     width="400"  
 />
 </p>
