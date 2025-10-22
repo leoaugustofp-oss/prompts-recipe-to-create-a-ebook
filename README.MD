@@ -36,7 +36,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie uma imagem com tema relacionado a educação e tecnologia. combine os temas e o crie com base no desenho do dexter --v 5.1 |
 
 ## ✨ Features
 
